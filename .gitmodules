@@ -1,0 +1,15 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/revaturelabs/assessment-tracker-client.git
+[submodule "e2e"]
+	path = e2e
+	url = https://github.com/revaturelabs/assessment-tracker-e2e
+[submodule "e2"]
+	path = e2
+	url = https://github.com/revaturelabs/assessment-tracker-e2e
+[submodule "assessment-service"]
+	path = assessment-service
+	url = https://github.com/revaturelabs/assessment-tracker-assessment-service
+[submodule "training-service"]
+	path = training-service
+	url = https://github.com/revaturelabs/assessment-tracker-training-service
